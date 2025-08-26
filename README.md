@@ -15,3 +15,5 @@ It allows users to answer multiple-choice questions and shows the final score at
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
+<img src="Password Generator/Pictures/PasswordGenerator.png" alt="QuizApp Preview" width="500">
